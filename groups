@@ -1,4 +1,5 @@
 # UUID                                                                        	Group Name
 #
+7fa8fee879cabaca846c5f0c3d46973012d80411                                      	saml/oran-gerrit-ric-plt-demo1-committers
 add1d629e64dce7097223c93ca6e710c1460b5ba                                      	GitHub Replication
 ldap:cn=oran-gerrit-ric-plt-demo1-committers,ou=Groups,dc=freestandards,dc=org	ldap/oran-gerrit-ric-plt-demo1-committers
